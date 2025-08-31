@@ -11,7 +11,7 @@ It’s not just about building models. It’s about making them matter.
 
 ## 📖 Storyline
 
-You have until **Wednesday, September 10th** to figure out which berries are edible, which species are safe, and how to estimate berry size without a computer. The island is rich with data—but it’s raw, unlabeled, and dangerous.
+You have **2 weeks** to figure out which berries are edible, which species are safe, and how to estimate berry size without a computer. The island is rich with data—but it’s raw, unlabeled, and dangerous.
 
 Your only tools:  
 - Seven datasets from a lost botanical expedition  
