@@ -1,4 +1,6 @@
-""""Gaussian Mixture Model Module
+
+""" gmm.py:
+Gaussian Mixture Model Module
 This module implements a custom Expectation-Maximization algorithm for Gaussian Mixture Models.
 It provides functions to calculate the PDF of a multivariate normal distribution,
 """

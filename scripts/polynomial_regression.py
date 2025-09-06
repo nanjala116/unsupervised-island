@@ -1,4 +1,5 @@
-"""Polynomial Regression Module
+"""polynomial_regression.py:
+Polynomial Regression Module
 This module provides functions to generate data, create model matrices,
 train a polynomial regression model, and test the coefficients.
 """

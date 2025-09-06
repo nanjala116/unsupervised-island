@@ -1,4 +1,4 @@
-"""naive_bayes.py: 
+"""naiveBayes.py: 
     A simple implementation of a Naive Bayes classifier for categorical features.
 """
 

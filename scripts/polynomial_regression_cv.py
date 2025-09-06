@@ -1,4 +1,5 @@
-""""Cross-Validation for Polynomial Regression
+"""polynomial_regression_cv.py:
+Cross-Validation for Polynomial Regression
 This module implements K-fold cross-validation for polynomial regression.
 It uses functions from the polynomial regression module to train and test models.
 """

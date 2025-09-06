@@ -1,4 +1,5 @@
-"""K-Means Clustering Module
+"""kmeans.py:
+K-Means Clustering Module
 This module implements a custom K-Means clustering algorithm.
 It provides a function to perform K-Means clustering with a specified convergence criterion.
 """
