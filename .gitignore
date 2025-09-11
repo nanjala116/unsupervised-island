@@ -1,5 +1,12 @@
 # Folders
 models/
+data/berry.csv
+data/edible.csv
+data/leaf.csv
+data/petal.csv
+data/species.csv
+data/clustering.csv
+data/complete.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
