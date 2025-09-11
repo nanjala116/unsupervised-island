@@ -5,7 +5,7 @@ It uses functions from the polynomial regression module to train and test models
 """
 
 import numpy as np
-from scripts.polynomial_regression import train, test_coefficients
+from polynomial_regression import train, test_coefficients
 
 def linear_cv(K, n, X, y):
     loss = []
