@@ -28,7 +28,6 @@ This challenge blends unsupervised learning, classification, regression, and rul
 
 ### 🔍 Clustering
 - Group berries by similarity using unsupervised techniques  
-- Engineer new features to improve cluster quality  
 - Explore different feature subsets and cluster counts
 
 ### 🍓 Edibility Prediction
@@ -78,10 +77,8 @@ All datasets are located in the `/data` folder:
 │   └── complete.json
 ├── notebooks/
 │   ├── 01_clustering.ipynb
-│   ├── 02_edibility_prediction.ipynb
-│   ├── 03_species_classification.ipynb
-│   └── 04_berry_size_estimation.ipynb
-├── survival_log.md
+│   ├── 02_classification.ipynb
+│   └── 03_regression.ipynb
 └── README.md
 ```
 
@@ -89,11 +86,11 @@ All datasets are located in the `/data` folder:
 
 ## 🧪 Tools & Libraries
 
-- Python 3.8+  
+- Python 3.12.3 
 - scikit-learn  
 - pandas  
 - matplotlib / seaborn  
-- Optional: XGBoost, LightGBM, rule-based classifiers
+- statsmodel
 
 ---
 
@@ -103,7 +100,6 @@ By the end of this challenge, you should produce:
 
 - A clustering map of berry types  
 - A rule-based classifier for edibility  
-- A species classification model  
 - A wilderness-ready formula for berry size
 
 ---
@@ -114,7 +110,6 @@ By the end of this challenge, you should produce:
 2. Explore the datasets in `/data`  
 3. Start with `01_clustering.ipynb`  
 4. Follow the storyline through each notebook  
-5. Document your findings in `survival_log.md`
 
 ---
 
